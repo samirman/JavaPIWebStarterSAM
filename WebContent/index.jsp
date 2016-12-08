@@ -26,7 +26,7 @@
 					<a
 						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
 						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">Watson Developer Cloud TEST</span>
+							IBM <span class="top-nav--logo-wdc">Watson Developer Cloud HealthNow</span>
 						</h3></a>
 					<nav class="top-nav--nav">
 						<li class="top-nav--nav-item"><a
